@@ -1,0 +1,13 @@
+Python ≥ 3.7
+
+PyTorch – for building and training the deep learning model
+
+Torchvision – for image transformations and dataset utilities
+
+scikit-image – for computing LBP (Local Binary Patterns)
+
+scipy – for performing DCT (Discrete Cosine Transform)
+
+scikit-learn – for classification metrics and reporting
+
+Pillow (PIL) – for image loading and preprocessing
